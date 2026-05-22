@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Bienvenidos a SS 💻🚀
 
-<!--
-**SyntaxStudioMT/SyntaxStudioMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web especializado en crear soluciones digitales eficientes, rápidas y escalables. Actualmente compaginando el ecosistema práctico de DAW con la base teórica de la Ingeniería Informática.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), maquetación avanzada.
+- **Backend & DB:** PHP, MySQL / SQL Server, Node.js.
+- **CMS & No-Code:** WordPress + Elementor / Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 En qué estoy trabajando
+- 🌐 Desarrollando sitios web optimizados para negocios locales y pymes.
+- 📚 Automatizando procesos de despliegue y mejorando arquitecturas de código.
+- 🛠️ Creando componentes reutilizables para acelerar mis tiempos de entrega como freelance.
+
+📫 ¿Quieres transformar tu negocio o colaborar en un proyecto? ¡Escríbeme por DM en Instagram o hablemos por aquí!
