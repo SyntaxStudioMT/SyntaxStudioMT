@@ -13,6 +13,4 @@ Soy desarrollador web especializado en crear soluciones digitales eficientes, r�
 - 🛠️ Creando componentes reutilizables para acelerar mis tiempos de entrega como freelance.
 
 📫 ¿Quieres transformar tu negocio o colaborar en un proyecto? ¡Escríbeme por DM en Instagram o hablemos por aquí!
-<a href="https://instagram.com/syntaxstudiomt" target="_blank">
-  <img src="https://img.shields.shields.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+📸 **Instagram:** [@syntaxstudiomt](https://instagram.com/syntaxstudiomt)
