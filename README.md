@@ -13,5 +13,4 @@ Soy desarrollador web especializado en crear soluciones digitales eficientes, r�
 - 🛠️ Creando componentes reutilizables para acelerar mis tiempos de entrega como freelance.
 
 📫 ¿Quieres transformar tu negocio o colaborar en un proyecto? ¡Escríbeme por DM en Instagram o hablemos por aquí!
-    ```markdown
-    [![Instagram](https://img.shields.shields.shields.shields.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syntaxstudiomt)
+[![Instagram](https://img.shields.shields.shields.shields.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syntaxstudiomt)
